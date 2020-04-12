@@ -3,4 +3,4 @@ __init__.cpython-37.pyc
 settings.cpython-37.pyc
 urls.cpython-37.pyc
 wsgi.cpython-37.pyc
-db.sqlite3
+db.sqlite3env.py
